@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/KyleAsaff/ramsay/issues"
   },
-  "homepage": "https://github.com/KyleAsaff/ramsay#readme"
+  "homepage": "https://github.com/KyleAsaff/ramsay#readme",
+  "dependencies": {
+    "slackbots": "^0.5.0",
+    "sqlite3": "^3.1.1"
+  }
 }
