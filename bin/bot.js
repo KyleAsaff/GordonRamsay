@@ -1,5 +1,3 @@
-'use strict';
-
 var RamsayBot = require('../lib/ramsaybot');
 
 var token = process.env.BOT_API_KEY;
