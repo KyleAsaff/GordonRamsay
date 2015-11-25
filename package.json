@@ -8,17 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KyleAsaff/ramsay.git"
+    "url": "git+https://github.com/KyleAsaff/GordonRamsay"
   },
   "author": "Kyle Asaff",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KyleAsaff/ramsay/issues"
+    "url": "https://github.com/KyleAsaff/GordonRamsay/issues"
   },
-  "homepage": "https://github.com/KyleAsaff/ramsay#readme",
+  "homepage": "https://github.com/KyleAsaff/GordonRamsay#readme",
   "dependencies": {
-    "nightmare": "^2.0.7",
-    "slackbots": "^0.5.0",
-    "sqlite3": "^3.1.1"
+    "slackbots": "^0.5.0"
   }
 }
