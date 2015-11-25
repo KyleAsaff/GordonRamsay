@@ -1,1 +1,1 @@
-BOT_API_KEY='xoxb-15179089074-zJVQzLaZ56wiWOKHBFyf6ykm' node bin/bot.js
+node bin/bot.js
