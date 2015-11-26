@@ -20,7 +20,7 @@
     "slackbots": "^0.5.0"
   },
   "scripts": {
-    "start": "node bin/bot.js",
+    "start": "BOT_API_KEY='xoxb-15179089074-zJVQzLaZ56wiWOKHBFyf6ykm' node bin/bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
