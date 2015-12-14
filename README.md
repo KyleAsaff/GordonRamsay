@@ -12,3 +12,8 @@ _Example: gordon food trucks mon_
 **\<gordon\|ramsay\> \<truck name\> menu**
 
 _Example: ramsay calpe paellas menu_
+
+
+**\<gordon|ramsay> zerocater <mon|thurs>**
+
+_Example: ramsay zerocater mon_
