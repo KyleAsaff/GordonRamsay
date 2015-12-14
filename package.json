@@ -19,6 +19,7 @@
   "dependencies": {
     "cheerio": "^0.19.0",
     "request": "^2.67.0",
-    "slackbots": "^0.5.0"
+    "slackbots": "^0.5.0",
+    "datejs": "^0.0.2"
   }
 }
