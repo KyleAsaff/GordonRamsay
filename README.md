@@ -1,6 +1,6 @@
 # GordonRamsay
 
-A Slack bot that tells you the schedule and menu for G Food Truck Lounge (http://www.gfoodlounge.com/) in San Francisco.
+A Slack bot that tells you the schedule and menu for G Food Truck Lounge (http://www.gfoodlounge.com/) in San Francisco
 
 # How To Run
 
